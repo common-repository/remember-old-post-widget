@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2013-07-04 01:42+0900\n"
+"PO-Revision-Date: 2013-07-04 01:46+0900\n"
+"Last-Translator: hondamarlboro\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+
+#: wp-remember-posts-widget.php:44
+msgid "Display your posts written on the same day years ago"
+msgstr "過去の同じ日に投稿した記事を表示します"
+
+#: wp-remember-posts-widget.php:71
+msgid "Remember Old Post Widget"
+msgstr ""
+
+#: wp-remember-posts-widget.php:95
+msgid "yrs"
+msgstr "年"
+
+#: wp-remember-posts-widget.php:98
+msgid "yr"
+msgstr "年"
+
+#: wp-remember-posts-widget.php:100
+msgid " ago"
+msgstr "前"
+
+#: wp-remember-posts-widget.php:104
+msgid "On the same day you had a break from writing:-)"
+msgstr "この日は次回投稿に向けて休息をとっていたようです"
